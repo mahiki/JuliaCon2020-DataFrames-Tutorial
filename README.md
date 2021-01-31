@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JuliaCon2020-DataFrames-Tutorial
 
 ## Introduction
@@ -80,3 +81,7 @@ installed. The simplest way to do it is to perform the following steps
 
 It is best if you have the above steps performed before joining the JuliaCon2020
 presentation to make sure you can smoothly follow the tutorial.
+||||||| (empty tree)
+=======
+# JuliaCon2020-DataFrames-Tutorial
+>>>>>>> 2151edf... Initial commit
