@@ -50,6 +50,9 @@ Boom [Now its running on the browser](http://localhost:8888/notebooks/indexing_p
 
 # juliacon 2020 - Dataframes.jl
 Bogumił Kamiński
+[Youtube video of workshop](https://www.youtube.com/watch?v=X7AJf0C4Czw&feature=youtu.be)
+[juliacon2020 page](https://pretalx.com/juliacon2020/talk/8SFYHK/)
+[Dataframes tutorial on github](https://github.com/bkamins/JuliaCon2020-DataFrames-Tutorial)
 
 
 ## prep items
@@ -75,6 +78,9 @@ julia --project=. -e "using IJulia; notebook(dir=pwd())"
 # we:lco:me: b:ack, b:ro
 # install Jupyter via Conda, y/n? [y]: y
 # [ Info: Running `conda install -y jupyter` in root environment
+
+# could this work?
+jupyter notebook --notebook-dir="/absolute/path/to/notebook/directory"
 ```
 
 Now its running, but no idea which URL to open in browser.
